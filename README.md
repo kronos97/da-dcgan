@@ -1,14 +1,14 @@
-# [Data Augumentation using Generative Adversarial Networks](https://drive.google.com/file/d/1v6adZQO3pgYaqoiSBWHrSB02coB4OgD7/view)
+# Data Augumentation using Generative Adversarial Networks
 
 ## [Mayur Shastri](https://kronos97.github.io)
 kshastri@umass.edu
-University of Massachusetts, Amherst
+[University of Massachusetts, Amherst](http://cs.umass.edu/)
 
 ## [Shreyas Ganesh](https://www.linkedin.com/in/shreyas-ganesh/)
 shreyasganes@umass.edu
-University of Massachusetts, Amherst
+[University of Massachusetts, Amherst](http://cs.umass.edu/)
 
-## Abstract
+## [Abstract](https://drive.google.com/file/d/1v6adZQO3pgYaqoiSBWHrSB02coB4OgD7/view)
 
 Modern day deep learning models require massive
 amounts of data to perform admirably and produce noteworthy results. To this end, we try to resolve this growing
