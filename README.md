@@ -4,7 +4,7 @@
 kshastri@umass.edu
 University of Massachusetts, Amherst
 
-## Shreyas Ganesh ()
+## [Shreyas Ganesh](https://www.linkedin.com/in/shreyas-ganesh/)
 shreyasganes@umass.edu
 University of Massachusetts, Amherst
 
