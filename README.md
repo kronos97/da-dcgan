@@ -1,10 +1,10 @@
 # Data Augumentation using Generative Adversarial Networks
 
-## Mayur Shastri
+## [Mayur Shastri] (https://kronos97.github.io)
 kshastri@umass.edu
 University of Massachusetts, Amherst
 
-## Shreyas Ganesh
+## Shreyas Ganesh ()
 shreyasganes@umass.edu
 University of Massachusetts, Amherst
 
